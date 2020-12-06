@@ -1,3 +1,4 @@
+![alt text](https://i.imgur.com/1qt48TW.png)
 This is the clone of popular ecommerce site in Nepal called Daraz. More info will be added later.
 
 Original site: https://www.daraz.com.np/
