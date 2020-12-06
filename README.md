@@ -4,10 +4,10 @@ This is the clone of popular ecommerce site in Nepal called Daraz.
 ![alt text](https://colorfield.be/sites/default/files/styles/large/public/2017-05/react-logo_1.png)
 
 ## Functionality
-*Cart Functionality
-*Login/Register
-*Apply Promo codes
-*Change Username
+* Cart Functionality
+* Login/Register
+* Apply Promo codes
+* Change Username
 
 ## Technical tools
 * Local JSON data
