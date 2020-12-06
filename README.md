@@ -14,6 +14,8 @@ This is the clone of popular ecommerce site in Nepal called Daraz.
 * Contentful API call with Axios and Fetch
 * Context Api
 * React router
+* Material icons
+* Styled Components
 * Firebase Authentication and hosting
 
 Original site: https://www.daraz.com.np/
