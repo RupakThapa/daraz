@@ -1,0 +1,29 @@
+.circlebutton {
+  display: flex;
+  flex-direction: row;
+  height: 32px;
+  align-items: center;
+  border-radius: 16px;
+  width: 100%;
+  margin: 16px;
+  background: #fff;
+  justify-content: flex-start;
+  padding: 6px;
+}
+
+.circlebutton:hover {
+  -webkit-box-shadow: 6px 8px 5px 0px rgba(214, 214, 214, 1);
+  -moz-box-shadow: 6px 8px 5px 0px rgba(214, 214, 214, 1);
+  box-shadow: 6px 8px 5px 0px rgba(214, 214, 214, 1);
+  color: rgb(8, 83, 221);
+}
+
+.imground {
+  height: 100%;
+}
+
+.btnname {
+  display: flex;
+  padding-left: 12px;
+  flex: 1;
+}

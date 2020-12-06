@@ -1,0 +1,92 @@
+.address {
+  display: flex;
+}
+.delivery {
+  display: flex;
+}
+.cod {
+  display: flex;
+}
+
+.singlepageContainer {
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fff;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.singleTitle {
+  font-weight: 400;
+}
+
+.skybluelink {
+  color: #1a9cb7;
+  font-size: 12px;
+}
+
+.singlePictureContainer,
+.singleDescription,
+.singleAddress {
+  width: 33%;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.singlePicture {
+  width: 100%;
+}
+
+.btnGroup {
+  display: flex;
+  margin-top: 12px;
+}
+.cartBtn {
+  border: 1px solid #f57224;
+  background: #f57224;
+  color: #fff;
+  padding: 0;
+  width: 225px;
+  text-align: center;
+  margin-right: 10px;
+  height: 44px;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+.buyBtn {
+  border: 1px solid #2abbe8;
+  background: #2abbe8;
+  color: #fff;
+  padding: 0;
+  width: 225px;
+  text-align: center;
+  margin-right: 10px;
+  height: 44px;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+.address,
+.delivery,
+.cod {
+  padding: 10px 16px;
+  background: #fafafa;
+}
+
+.singleAddress {
+  background: #fafafa;
+}
+
+.sideIcon {
+  padding: 0 8px 0 8px;
+  color: #757575;
+}
+
+hr {
+  border: 1px solid #ededed;
+}

@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+}
+
+body {
+  background: #f5f5f5;
+}
+.displayarea {
+  display: flex;
+  background: #3a2f88;
+  height: 344px;
+}
+
+.container {
+  margin-left: 48px;
+  margin-right: 48px;
+}
+.mainimage {
+  width: 988px;
+  height: 344px;
+}
+
+.slidermain {
+  width: 988px;
+  height: 344px;
+  object-fit: contain;
+}
+
+.salebanner {
+  display: flex;
+  justify-content: center;
+}
+
+.circlearea {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 32px;
+  margin-right: 32px;
+  background: #f5f5f5;
+}

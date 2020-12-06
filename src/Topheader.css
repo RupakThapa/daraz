@@ -1,0 +1,22 @@
+.topheader {
+  background: #ececec;
+  display: flex;
+  justify-content: flex-end;
+}
+
+span {
+  padding: 0 17px;
+  font-size: 12px;
+  height: 25px;
+  line-height: 25px;
+  text-align: left;
+  white-space: nowrap;
+}
+span:hover {
+  color: #f36f36;
+  text-decoration: underline;
+}
+
+.active {
+  color: #f36f36;
+}

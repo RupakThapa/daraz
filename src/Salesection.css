@@ -1,0 +1,38 @@
+.flash__title {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  -webkit-box-shadow: 2px 4px 5px 0px rgba(214, 214, 214, 1);
+  -moz-box-shadow: 2px 4px 5px 0px rgba(214, 214, 214, 1);
+  box-shadow: 2px 4px 5px 0px rgba(214, 214, 214, 1);
+  padding: 16px;
+}
+
+.flash__text {
+  color: #f57224;
+}
+
+.flash__button {
+  border: 1px solid #f57224;
+  padding: 8px;
+  background: white;
+  color: #f57224;
+}
+
+.product__section {
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product__sectionLink {
+  text-decoration: none;
+}
+
+.salesection {
+  margin-bottom: 20px;
+}
+
+.product__sectionLink {
+  color: #000;
+}
